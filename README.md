@@ -11,4 +11,7 @@
 
 ## Question 2 :
 
+- Nothing , the code have errors : (wrong tag name because the jquery can't have the button then id name so it is not working beacuse of that , but the function syntax is right ( standalone function inside the click event ) . 
+
+
 
